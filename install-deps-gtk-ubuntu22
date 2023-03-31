@@ -1,0 +1,2 @@
+sudo apt install -y libsdl2-net-2.0-0
+sudo apt install -y libturbojpeg
